@@ -11,7 +11,7 @@ unlink_files()
 
 link_files()
 {
-	ln -s ~/.bashrc ~/.config/bashrc
+	ln -s ~/.config/.bashrc ~/.bashrc
 }
 
 link_files
