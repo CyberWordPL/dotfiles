@@ -9,4 +9,4 @@ get_fail_code_ps1()
 	fi
 }
 
-PS1 = "$(get_fail_code_ps1)"
+PS1="$(get_fail_code_ps1)"
