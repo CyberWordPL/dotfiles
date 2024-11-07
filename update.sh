@@ -14,4 +14,5 @@ link_files()
 	ln -s ~/.bashrc ~/.config/bashrc
 }
 
+unlink_files
 link_files
